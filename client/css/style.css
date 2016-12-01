@@ -1,0 +1,10 @@
+#addtodo {
+	background-color: #f0f0f5;
+}
+#todolist {
+	background-color: #e5e5e5;
+}
+#donelist ul{
+	font-size: 20px;
+	background-color: #d5d5d5;
+}
